@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Chris AKA Red.
+- 🐵🐈‍⬛ Code monkey by day, cat butler by night.
 - 🚴‍♀️🍜☕📷 I'm usually riding somewhere to eat ramen, have coffee or taking photos. 
 - 👀 I’m interested in art, books, music, some console gaming and am currently a software engineering apprentice.
-- 🌱 I’m currently learning C#, React and Node JS.
-- 💞️ I’m looking to collaborate on anything coding related to improve my skills. 
-- 📫 How to reach me: On github, discord and Twitter.
+- 🌱 I’m currently learning React and Node JS.
+- 📫 Reach me: On github, discord and twitch.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: This is my 4th career change.
